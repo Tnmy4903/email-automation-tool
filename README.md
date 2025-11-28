@@ -82,11 +82,11 @@ Example:
 
 ```
 Warm regards,
-Rohit Sharma
-rohit.sharma1999@gmail.com
+Tanmay Jain
+tnmy4903@@gmail.com
 
-+91 98765 43210
-linkedin.com/in/rohitsharma/
++91 8858314903
+linkedin.com/in/tnmy4903/
 ```
 
 ---
@@ -118,7 +118,7 @@ Create `.env` file in root:
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
 EMAIL_ADDRESS=your_email@gmail.com
-EMAIL_PASSWORD=your_app_password
+EMAIL_PASSWORD=your_app_password 
 ```
 
 ### How to Get App Password (Mandatory)
